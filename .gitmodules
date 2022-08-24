@@ -1,0 +1,3 @@
+[submodule "subrepositorio"]
+	path = subrepositorio
+	url = https://github.com/Ritas2022/subrepositorio
