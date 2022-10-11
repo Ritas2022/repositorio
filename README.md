@@ -8,5 +8,5 @@
 ✔ Tornamos o segundo repositorio um submódulo do primeiro.<br>
 ✔ Fizemos demonstrações de commits e atualizações para o professor.<br>  
 
-OBS: O Primeiro criei com o  nome de Repositorio, o segundo Repositório a demostração de um submodulo criei com o nome de subrepositorio.    
+OBS: O Primeiro criei com o  nome de repositorio, o segundo Repositório a demostração de um submodulo criei com o nome de subrepositorio.    
 
